@@ -1,0 +1,23 @@
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0070.jpg 389,216,1049,939,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0058.jpg 383,153,681,416,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0013.jpg 3,4,1248,681,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0077.jpg 140,25,551,753,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0078.jpg 572,4,1227,521,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_INAB0021.jpg 752,171,1343,758,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_F0001.jpg 370,4,624,323,0 5,4,609,510,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0083.jpg 1024,273,1227,593,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0087.jpg 488,84,1100,925,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0080.jpg 646,578,945,1044,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0066.jpg 159,599,1018,1044,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_INAB0010.jpg 609,243,1383,1023,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_INAB0032.jpg 53,187,1402,957,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0088.jpg 3,154,360,628,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0032.jpg 7,306,736,1059,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0051.jpg 476,199,812,537,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_F0007.jpg 496,705,780,909,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_INAB0025.jpg 291,502,1179,1063,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0018.jpg 721,605,1060,925,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0075.jpg 617,178,1347,955,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0019.jpg 238,624,531,915,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_NAF0047.jpg 526,666,832,894,0
+/home/mpiuser/tensoflow/YOLOV3/data/originalImages/EDD2020_INAB0020.jpg 612,213,1202,805,0
